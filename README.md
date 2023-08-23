@@ -1,6 +1,8 @@
 ## Hello World
 
-I'm the lead developer in [*The Orderbook DEX Team*](https://github.com/TheOrderbookDEX). You can read more about this under the section titled [*The Orderbook DEX*](#the-orderbook-dex).
+I built [*The Orderbook DEX*](https://github.com/TheOrderbookDEX). You can read more about this under the section titled [*The Orderbook DEX*](#the-orderbook-dex).
+
+I wrote some other code that might be useful too, maybe I'll write about it here some day.
 
 ## whoami
 
